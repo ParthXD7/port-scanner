@@ -66,7 +66,7 @@ Report saved to port_scan_report_YYYYMMDD_HHMMSS.txt
 - Identifying active services on a network.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project is licensed under the GNU General Public License v3.0 License. See the `LICENSE` file for more information.
 
 ## Contact
 For feedback or contributions, contact **ParthXD7** via [GitHub](https://github.com/ParthXD7).
